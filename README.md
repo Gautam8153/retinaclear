@@ -1,2 +1,0 @@
-# retinaclear
-Static site

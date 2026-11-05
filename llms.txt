@@ -1,0 +1,26 @@
+# RetinaClear
+
+> RetinaClear is a Eye Wellness & Vision Support Supplement. RetinaClear is a capsule dietary supplement formulated for people who want to look after their eyes as part of a daily routine. Rather than a single-ingredient formula, it brings together a set of eye-focused nutrients and botanical extracts that are commonly used in vision wellness products — antioxidants, plant pigments and micronutrients associated with retinal and macular support. Taken as a simple daily capsule, RetinaClear is positioned as a maintenance supplement for adults who spend long hours at screens, notice their eyes feeling tired or dry by evening, or simply want nutritional backup for long-term visual clarity. It is a dietary supplement, not a medicine, and it is meant to complement — not replace — regular eye check-ups, a balanced diet and good screen habits.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://retinaclear.onrender.com/)
+- [What RetinaClear is](https://retinaclear.onrender.com/what-is-product.html)
+- [How RetinaClear works](https://retinaclear.onrender.com/how-it-works.html)
+- [RetinaClear ingredients, explained individually](https://retinaclear.onrender.com/ingredients.html)
+- [RetinaClear benefits](https://retinaclear.onrender.com/benefits.html)
+- [RetinaClear customer reviews](https://retinaclear.onrender.com/reviews.html)
+- [RetinaClear frequently asked questions](https://retinaclear.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying RetinaClear](https://retinaclear.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at RetinaClear — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://retinaclear.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using RetinaClear's own label as a real example of what to look for.
+- [RetinaClear: An Honest Review](https://retinaclear.onrender.com/blog/retinaclear-honest-review.html): An honest look at RetinaClear — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Lutein vs Zeaxanthin: What Each Does In RetinaClear](https://retinaclear.onrender.com/blog/lutein-vs-zeaxanthin.html): Lutein and Zeaxanthin are both in RetinaClear but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement RetinaClear](https://retinaclear.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with RetinaClear as part of a eye wellness & vision support routine.
+- [RetinaClear FAQ: Dosage, Timing, Who Should Skip It](https://retinaclear.onrender.com/blog/retinaclear-faq.html): Common questions about RetinaClear — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://retinaclear.onrender.com/terms.html)
+- [Privacy Policy](https://retinaclear.onrender.com/privacy-policy.html)
+- [Disclaimer](https://retinaclear.onrender.com/disclaimer.html)
+- [Refund Policy](https://retinaclear.onrender.com/refund-policy.html)
+- [About Us](https://retinaclear.onrender.com/about.html)
+- [Contact Us](https://retinaclear.onrender.com/contact.html)
